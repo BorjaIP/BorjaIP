@@ -4,7 +4,7 @@
   <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845ddace98922f741c07f099bf" width="30%" title="Space" alt="Space">
 </p>
 
-💫 I'm a dedicated professional and passionate about technology with a solid expertise in DevOps, Software Architecture, Cloud and Software development. Experience in design and build software, containerization applications, implementing CI/CD pipelines and preparing cloud infrastructures for 🤖 Artificial Intelligence solutions.
+💫 I’m a tech enthusiast with a knack for DevOps, Software Architecture, Cloud, and Software Development. I love designing and building software, containerizing applications, setting up CI/CD pipelines, and crafting cloud infrastructures that are ready to handle 🤖 AI solutions. Always excited to explore new challenges and push the boundaries of what tech can do!
 
 ---
 
