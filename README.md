@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Borja👋 </h1>
+<h1 align="center"> \o/ Hi, I'm Borja </h1>
 
 <p align="center">
   <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845ddace98922f741c07f099bf" width="30%" title="Space" alt="Space">
