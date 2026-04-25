@@ -4,7 +4,7 @@
   <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845ddace98922f741c07f099bf" width="30%" title="Space" alt="Space">
 </p>
 
-My focus is the intersection of Platform Engineering and AI delivery: designing the infrastructure layer that lets AI engineers ship faster, safer, and cheaper. I apply AI to infra decisions as much as I build infra for AI.
+I build the infra that makes AI go to production. Then I use AI to make better infra decisions. ⌬ Somewhere in that loop is my job.
 
 ---
 
