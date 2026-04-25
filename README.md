@@ -4,7 +4,7 @@
   <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845ddace98922f741c07f099bf" width="30%" title="Space" alt="Space">
 </p>
 
-💫 I’m a tech enthusiast with interest for DevOps, Software Architecture, Cloud, and Software Development. Currently working in building software, containerizing applications, setting up CI/CD pipelines, and crafting cloud infrastructures that are ready to handle 🤖 AI solutions.
+My focus is the intersection of Platform Engineering and AI delivery: designing the infrastructure layer that lets AI engineers ship faster, safer, and cheaper. I apply AI to infra decisions as much as I build infra for AI.
 
 ---
 
@@ -14,21 +14,12 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=BorjaIP&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaIP&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=BorjaIP&title_color=f4a7c3&text_color=e8d5e8&icon_color=d47fa6&bg_color=0f0a14&border_color=3d1f35&ring_color=f4a7c3&show_icons=true&include_all_commits=true&count_private=true&border_radius=10" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaIP&layout=compact&title_color=f4a7c3&text_color=e8d5e8&icon_color=d47fa6&bg_color=0f0a14&border_color=3d1f35&border_radius=10" height="150"/>
 
-<!--
-**BorjaIP/BorjaIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=BorjaIP&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaIP&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
